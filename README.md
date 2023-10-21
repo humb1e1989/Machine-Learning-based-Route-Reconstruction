@@ -19,5 +19,5 @@ The project resulted in a 20% enhancement in transportation efficiency and a 15%
 The project marked a significant stride in optimizing VRPTW, with notable achievements in the selection of disruption operators. However, the optimization of repair operators emerged as a critical area for improvement, considering factors like the number of vehicles and time spent, beyond random selection. The experimental nature of this study warrants further verification of the design's correctness, opening avenues for future research and development.<br>
 
 ## Acknowledgement
+- It's really an honor to join this program. So much thanks to _**Dr.Jianjun Chen**_, who is also the main advisor of this project.<br>
 - The poster is provided in the folder in the [repo](https://github.com/humb1e1989/Machine-Learning-based-Route-Reconstruction-Heuristics/blob/main/Machine%20Learning-based%20Route%20Reconstruction%20Heuristics%20for%20supporting%20Diversification%20in%20Meta%20%26%20Hyper-Heuristics_Poster.pdf).<br>
-> It's really an honor to join this program. So much thanks to _**Dr.Jianjun Chen**_, who is also the main advisor of this project.
