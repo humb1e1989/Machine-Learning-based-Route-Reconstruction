@@ -13,10 +13,10 @@
 - **Evaluation Criteria:** <br> The project employed a unique evaluation criterion where the longer the moving trace, the better the destroy/repair operators were considered. This innovative approach facilitated a desirable destruction and reconstruction of the solution space.
 
 ## Quantitative Impact:
-The project resulted in a 20% enhancement in transportation efficiency and a 15% reduction in global transportation costs. These significant improvements were attributed to the optimized disruption/repair operators and the innovative scrambling algorithm, corroborated by the 3D graphics visualization. <br>
+> The project resulted in a 20% enhancement in transportation efficiency and a 15% reduction in global transportation costs. These significant improvements were attributed to the optimized disruption/repair operators and the innovative scrambling algorithm, corroborated by the 3D graphics visualization. <br>
 
 ## Conclusion:
-The project marked a significant stride in optimizing VRPTW, with notable achievements in the selection of disruption operators. However, the optimization of repair operators emerged as a critical area for improvement, considering factors like the number of vehicles and time spent, beyond random selection. The experimental nature of this study warrants further verification of the design's correctness, opening avenues for future research and development.<br>
+> The project marked a significant stride in optimizing VRPTW, with notable achievements in the selection of disruption operators. However, the optimization of repair operators emerged as a critical area for improvement, considering factors like the number of vehicles and time spent, beyond random selection. The experimental nature of this study warrants further verification of the design's correctness, opening avenues for future research and development.<br>
 
 ## Acknowledgement
 - It's really an honor to join this program. So much thanks to _**Dr.Jianjun Chen**_, who is also the main advisor of this project.<br>
