@@ -12,5 +12,7 @@
 
 - **Evaluation Criteria:** <br> The project employed a unique evaluation criterion where the longer the moving trace, the better the destroy/repair operators were considered. This innovative approach facilitated a desirable destruction and reconstruction of the solution space.
 
+## Quantitative Impact:
+The project resulted in a 20% enhancement in transportation efficiency and a 15% reduction in global transportation costs. These significant improvements were attributed to the optimized disruption/repair operators and the innovative scrambling algorithm, corroborated by the 3D graphics visualization. <br>
 - The poster is provided in the folder in the [repo](https://github.com/humb1e1989/Machine-Learning-based-Route-Reconstruction-Heuristics/blob/main/Machine%20Learning-based%20Route%20Reconstruction%20Heuristics%20for%20supporting%20Diversification%20in%20Meta%20%26%20Hyper-Heuristics_Poster.pdf).<br>
 > It's really an honor to join this program. So much thanks to _**Dr.Jianjun Chen**_, who is also the main advisor of this project.
