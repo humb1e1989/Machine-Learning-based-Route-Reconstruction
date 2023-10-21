@@ -4,7 +4,7 @@
 
 ## Key Features and Contributions:
 
-> **Heuristic Algorithm:** <br> The heuristic algorithm was instrumental in finding initial local optimal solutions. The algorithm involved receiving input points that met the insertion criteria, randomly selecting an insertion place from these positions to achieve a random effect, and inserting the selected node into a specific node. The original route was deleted to minimize the similarity between the newly reconstructed space solution and the original one.
+- **Heuristic Algorithm:** <br> The heuristic algorithm was instrumental in finding initial local optimal solutions. The algorithm involved receiving input points that met the insertion criteria, randomly selecting an insertion place from these positions to achieve a random effect, and inserting the selected node into a specific node. The original route was deleted to minimize the similarity between the newly reconstructed space solution and the original one.
 
 > **Innovative Scrambling Algorithm:** <br> This algorithm was pivotal in randomly disrupting solutions to discover more local optimal solutions. It was characterized by its ability to traverse nodes to find possible solutions according to default parameters and swap sub-paths selectively to obtain local optimal solutions.
 
